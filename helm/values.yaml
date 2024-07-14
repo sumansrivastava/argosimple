@@ -2,7 +2,7 @@ replicaCount: 3
 
 image:
   repository: suamnjsr/helloworldex
-  tag: next
+  tag: latest
   pullPolicy: IfNotPresent
 
 service:
