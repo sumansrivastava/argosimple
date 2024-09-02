@@ -1,0 +1,132 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+bower_components/
+venv/
+.env/
+.venv/
+.env.local
+.env.*.local
+
+# Build directories
+dist/
+build/
+out/
+target/
+*.jar
+*.war
+*.ear
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.s#
+*.komodoproject
+*.komodoproject
+*.kpf
+*.log
+*.log.*
+*.stackdump
+*.bak
+*.backup
+*.orig
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+*.coverage
+
+# C#, .NET
+[Bb]in/
+[Oo]bj/
+*.user
+*.rsuser
+*.suo
+*.sln.docstates
+*.pdb
+.vs/
+.idea/
+_ReSharper.Caches/
+*.resharperuser
+*.resharper-options
+*.psess
+
+# Docker
+docker-compose.override.yml
+docker-compose.override.*
+docker-compose.dev.yml
+docker-compose.prod.yml
+.env
+.dockerignore
+Dockerfile
+Dockerfile.*
+Dockerfile-*
+
+# Kubernetes
+*.kube/config
+*.kube/cache
+*.kube/http-cache
+.kube/
+*.kube/config
+*.kube/http-cache
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+crash.log
+*.tfvars
+override.tf
+override.tf.json
+terraform.tfstate
+terraform.tfstate.*
+
+# Secrets and Credentials
+*.key
+*.pem
+*.pfx
+*.p12
+*.cer
+*.crt
+*.der
+*.csr
+*.sst
+*.p7b
+*.env
+*.keyvault
+*.private
